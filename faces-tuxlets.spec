@@ -1,7 +1,7 @@
 Summary:	Tuxlets face icons by Arvi Pingus
 Name:		faces-tuxlets
 Version:	1.0
-Release:	1
+Release:	2
 License:	Artistic
 URL:		https://abf.rosalinux.ru/moondrake/faces-tuxlets
 Group:		System/Configuration/Other	
@@ -20,4 +20,5 @@ Tuxlets face icons theme provided by Arvi Pingus.
 %makeinstall_std
 
 %files
+%doc ChangeLog
 %{_datadir}/faces/01-tuxlets
