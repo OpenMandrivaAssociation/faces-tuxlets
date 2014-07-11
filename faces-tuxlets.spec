@@ -1,7 +1,7 @@
 Summary:	Tuxlets face icons by Arvi Pingus
 Name:		faces-tuxlets
 Version:	1.1
-Release:	6
+Release:	7
 License:	Artistic
 URL:		https://abf.rosalinux.ru/moondrake/faces-tuxlets
 Group:		System/Configuration/Other	
